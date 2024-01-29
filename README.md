@@ -64,36 +64,40 @@ The technologies I used in this challenge includes:
 
 ## Usage
 
-1. Deploy your code by running "git add", "git commit", and "git push" in your local repository.
+1. Open the cloned repository in a source code editor(Visual Studio Code).
 
-2. Visit your GitHub repository online, click 'Settings', and then select 'Pages' on the left.
+2. Open integrated terminal on index.js
 
-3. In GitHub Pages, set the 'main' branch as the source and click 'Save'.
+3. Enter "node index.js" in the command line
 
-4. Access your live site at <your-github-username.github.io/your-repository-name>. For example, if your username is "lernantino" and your repo is "css-demo-site", the URL is <lernantino.github.io/css-demo-site>.
+4. Presented with npm inquirer questions through sequential order within the directory. Users are required to provide essential README information in order to proceed to the next question.
+
+5. Once completed a file named README.md will be created.
 
 ## Screenshot
 
- ![Weather Dashboard First](Assets/images/MG_1.jpeg)    
-
- ![Weather Dashboard Second](Assets/images/MB_2.jpeg)  
-
- ![Weather Dashboard Third](Assets/images/MB_3.jpeg) 
-
- ![Weather Dashboard Fourth](Assets/images/MB_4.jpeg) 
+ ![README generator first](challenge_9/images/README generator first.png) 
  
 ## Contributions
-[Open Weather Map_5-Day Forecast ](https://openweathermap.org/forecast5)
+Contributions to the Professional README Generator are welcome and encouraged. Here are some ways you can contribute:
 
-[MDN web docs_Introduction to Server Side APIs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
+1. **Bug Reports and Feature Requests:**
+   - If you encounter any issues or have suggestions for new features, please open an issue on the [GitHub repository](https://github.com/MunibaP/Professional_README_Generator).
+
+2. **Improvements to the README Generator:**
+   - If you find ways to enhance the README generation process or identify any limitations, feel free to submit a pull request.
+  
+## Links
+
+[Video Link]()
 
 ## Contact Information
 
-[GitHub Repository link](https://github.com/MunibaP/GlobeGlimpse_Weather_Dashboard.git)
+[GitHub Repository link](https://github.com/MunibaP/Professional_README_Generator)
 
-[Deployment link](https://munibap.github.io/GlobeGlimpse_Weather_Dashboard/)
+[Email](munibapervez596@gmail.com)
 
 ## License
 
-Redistribution of the CVW software or derived works must reproduce MITRE's copyright designation and this License in the documentation and/or other materials provided with the distribution.Copyright © 1994-1999. The MITRE Corporation (http://www.mitre.org/). All Rights Reserved.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
