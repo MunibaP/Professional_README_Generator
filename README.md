@@ -54,11 +54,13 @@ The technologies I used in this challenge includes:
 ## Installation
 
 1. To install the challenge #6, first create a new repository in your GitHub account, and then clone this repository to your local computer.
-
   To clone: git clone https://github.com/your-username/repository-name.git
-2. Install Node.js [v20.11.0]
-3. Open the cloned repository in a visual studio code.
-4. Open integrated terminal on index.js in order to run "npm i inquirer@8.2.4" on the command line to install inquirer package and to ensure that "node_modules" and "package.json" are operating on your local device.
+
+3. Install Node.js [v20.11.0]
+
+4. Open the cloned repository in a visual studio code.
+
+5. Open integrated terminal on index.js in order to run "npm i inquirer@8.2.4" on the command line to install inquirer package and to ensure that "node_modules" and "package.json" are operating on your local device.
 
 ## Usage
 
