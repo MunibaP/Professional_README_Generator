@@ -76,7 +76,7 @@ The technologies I used in this challenge includes:
 
 ## Screenshot
 
- ![README generator first](challenge_9/images/README generator first.png) 
+ ![README Generator First](/images/README_generator_first.png)
  
 ## Contributions
 Contributions to the Professional README Generator are welcome and encouraged. Here are some ways you can contribute:
