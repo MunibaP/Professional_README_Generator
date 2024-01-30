@@ -89,7 +89,7 @@ Contributions to the Professional README Generator are welcome and encouraged. H
   
 ## Links
 
-[Video Link]()
+[Video Link](https://drive.google.com/file/d/1GSLAJyMBoDe1sy2nq6ztsi_SH06sjJFE/view?usp=drive_link)
 
 ## Contact Information
 
